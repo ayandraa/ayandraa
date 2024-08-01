@@ -26,8 +26,19 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Danda</code>, tenho 25 anos, moro em BH e atualmente atuo como Network Analyst no Inter&Co. 
+<i><b>Olá</b> :wave:, sou a <code>Danda</code>, tenho 25 anos, moro em BH e atualmente atuo como Network Analyst no Inter&Co. Estou cursando Analise e Desenvolvimento de Sistemas na Newton Paiva com previsão de conclusão em 07/2025. Apreciadora nata de animes e aspirante a leitora compulsiva 💘
+
+
+ 
 -----
+
+
+
+
+
+
+
+
 
 
 
